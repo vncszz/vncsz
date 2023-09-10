@@ -1,5 +1,5 @@
  
-<h2>ﾟ･✧☁・Bem vindo, Eu sou o vinicius, ta aqui porquê mesmo?</h2>
+<h2>ﾟ･✧☁・Olá, Eu sou o vinicius, ta aqui porquê mesmo hã?</h2>
 <p>Que tal dar uma estrelinha ai nos meus humildes projetos em...</p>
 
 ​

@@ -14,7 +14,7 @@
  ​<p align="center" > 
      v.ncssz
      <br>
- ​    <img src="https://discord.c99.nl/widget/theme-4/1077794931566989434.png" /> 
+ ​    <img src="https://discord.c99.nl/widget/theme-1/1077794931566989434.png" /> 
 </p>
 
 <h2>ﾟ･🦋・Informações que ninguém liga: </h2>

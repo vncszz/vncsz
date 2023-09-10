@@ -12,7 +12,7 @@
 
 <h3>ﾟ･✧🍬・Me chama no discord lá pra nois bater um papo, rsrs!</h3>
  ​<p align="center" > 
-     v.ncssz
+     v.ncsz
      <br>
  ​    <img src="https://discord.c99.nl/widget/theme-1/1077794931566989434.png" /> 
 </p>

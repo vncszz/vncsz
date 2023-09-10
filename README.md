@@ -1,5 +1,5 @@
  
-<h2>ﾟ･✧☁・Bem vindo, Eu sou o vinicius, ta aqui porquê mesmo em?</h2>
+<h2>ﾟ･✧☁・Bem vindo, Eu sou o vinicius, ta aqui porquê mesmo?</h2>
 <p>Que tal dar uma estrelinha ai nos meus humildes projetos em...</p>
 
 ​
@@ -14,12 +14,12 @@
  ​<p align="center" > 
      misss_aubrey
      <br>
- ​    <img src="https://discord.c99.nl/widget/theme-4/500383265836892161.png" /> 
+ ​    <img src="https://discord.c99.nl/widget/theme-4/1077794931566989434.png" /> 
 </p>
 
 <h2>ﾟ･🦋・Informações que ninguém liga: </h2>
  ​<p align="center" > 
- ​    <img src="https://github-readme-stats.vercel.app/api?username=AubreyFBG&show_icons=true&theme=dark" /> 
+ ​    <img src="https://github-readme-stats.vercel.app/api?username=vncszzG&show_icons=true&theme=dark" /> 
       <br>
- ​    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AubreyFBG&layout=compact&theme=dark" /> 
+ ​    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vncszz&layout=compact&theme=dark" /> 
 </p>
